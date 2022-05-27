@@ -1,5 +1,4 @@
 # Azure-Community-Conference-2022-Cloud-Skill-Certification-Challenge
-Azure Community Conference 2022-Cloud Skill Certification Challenge
 The Azure Nigeria Community Conference Cloud Skills Challenge – May 28, 2022, starts at May 28, 2022, at 10:00 AM WAT and ends on June 19th, 2022, at 11:59 PM WAT. 
 
 You must register for the event by making sure your name is captured, attend the event & complete the challenge within 3 weeks 
