@@ -3,7 +3,7 @@ Official Rules
 
 ELIGIBILITY: To be eligible to participate in the Challenge name, you must a registered attendee of the Azure Nigeria Community Conference 2022.
 
-HOW TO ENTER: No purchase necessary. The contest will begin at 10:00am (WAT) on 28, June, 2022 and end at 11:59pm(WAT) on 19th, June, 2022 (the “Challenge Period”). To enter the Challenge, visit https://aka.ms/AzureNaija-DeveloperCSC, https://aka.ms/AzureNaija-AdministratorCSC, https://aka.ms/AzureNaija-DevOpsCSC, 
+HOW TO ENTER: No purchase necessary. The contest will begin at 10:00am (WAT) on 28, May, 2022 and end at 11:59pm(WAT) on 19th, June, 2022 (the “Challenge Period”). To enter the Challenge, visit https://aka.ms/AzureNaija-DeveloperCSC, https://aka.ms/AzureNaija-AdministratorCSC, https://aka.ms/AzureNaija-DevOpsCSC, 
 https://aka.ms/AzureNaija-SecurityCSC
 
 and follow the instructions to register for Azure Nigeria Community Conference Cloud Skill Challenge. Once registered, visit Challenge_URL to earn badges (“Badges”). Each time you complete a Badge, you will receive one (1) entry into a draw for a prize. Each additional Badge completed will earn one (1) additional entry into the draw. Any use of automated devices is prohibited.
